@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/The_Golden_Spoon/static/css/main.f804e08c.css",
+    "main.js": "/The_Golden_Spoon/static/js/main.95d3afa4.js",
+    "index.html": "/The_Golden_Spoon/index.html",
+    "main.f804e08c.css.map": "/The_Golden_Spoon/static/css/main.f804e08c.css.map",
+    "main.95d3afa4.js.map": "/The_Golden_Spoon/static/js/main.95d3afa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f804e08c.css",
+    "static/js/main.95d3afa4.js"
+  ]
+}
